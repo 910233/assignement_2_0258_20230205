@@ -1,0 +1,22 @@
+.box{
+    display: inline-block;
+    border: 3px solid black;
+    background: white;
+    width: 150px;
+    height: 90px;
+    margin: 10px;
+}
+
+#relative{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+div{
+    border: 3px dashed black;
+    background: lightblue;
+    height: 300px;
+    width: 600px;
+
+}

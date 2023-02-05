@@ -1,0 +1,19 @@
+.box{
+    border: 3px solid black;
+    background: white;
+    margin: 10px;
+    width: 150px;
+    height: 90px;
+}
+
+#float{
+    float: right;
+}
+
+div{
+    border: 3px dashed black;
+    background: lightblue;
+    height: 400px;
+    width: 600px;
+
+}
